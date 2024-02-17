@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tu Empresa - Administración de Propiedades</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Tu Empresa - Administración de Propiedades</h1>
+        <nav>
+            <ul>
+                <li><a href="#inicio">Inicio</a></li>
+                <li><a href="#nosotros">Acerca de Nosotros</a></li>
+                <li><a href="#servicios">Servicios</a></li>
+                <li><a href="#contacto">Contacto</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="inicio">
+            <h2>Bienvenido a Tu Empresa</h2>
+            <p>Ofrecemos servicios de administración de propiedades para propietarios e inquilinos.</p>
+        </section>
+
+        <section id="nosotros">
+            <h2>Acerca de Nosotros</h2>
+            <p>Somos una empresa dedicada a proporcionar soluciones integrales de administración de propiedades...</p>
+        </section>
+
+        <section id="servicios">
+            <h2>Nuestros Servicios</h2>
+            <ul>
+                <li>Gestión de Propiedades</li>
+                <li>Mantenimiento de Edificios</li>
+                <li>Seguridad Residencial</li>
+                <!-- Agrega más servicios según sea necesario -->
+            </ul>
+        </section>
+
+        <section id="contacto">
+            <h2>Contacto</h2>
+            <p>Ponte en contacto con nosotros para obtener más información sobre nuestros servicios.</p>
+            <a href="mailto:info@tuempresa.com">info@tuempresa.com</a>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Tu Empresa - Administración de Propiedades</p>
+    </footer>
+</body>
+</html>
